@@ -26,7 +26,81 @@ const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="center"></div>
+      <div className="center">
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>{" "}
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <img
+              src="https://ahmetgulmez.com.tr/images/projects/proje2.gif"
+              alt=""
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
+              iure accusantium suscipit odio sunt aliquam maiores necessitatibus
+              perspiciatis. Veritatis consequatur debitis quibusdam quas
+              laboriosam odio ducimus sapiente eum sit atque.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
