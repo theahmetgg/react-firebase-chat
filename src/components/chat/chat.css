@@ -162,6 +162,11 @@
             -moz-border-radius: 15px;
             -ms-border-radius: 15px;
             -o-border-radius: 15px;
+
+            &:disabled {
+
+                cursor: not-allowed;
+            }
         }
 
         .emoji {
@@ -185,6 +190,11 @@
             -ms-border-radius: 5px;
             -o-border-radius: 5px;
             cursor: pointer;
+
+            &:disabled {
+                background-color: #5183feb4;
+                cursor: not-allowed;
+            }
         }
     }
 }
