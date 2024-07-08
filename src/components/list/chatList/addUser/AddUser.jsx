@@ -1,7 +1,8 @@
 import {
   arrayUnion,
   collection,
-  doc,
+  doc, 
+  getDoc,
   getDocs,
   query,
   serverTimestamp,
